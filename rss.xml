@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Demian Lee]]></title>
         <description><![CDATA[Demian Lee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/demian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:28:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 00:52:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/demian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa8f5439-2a5f-442b-af89-e048ed64fe16.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/demian/77ebf6c4-becf-40be-9756-f2ed548b598a/index.html</link>
+            <guid isPermaLink="false">77ebf6c4-becf-40be-9756-f2ed548b598a</guid>
+            <pubDate>Sun, 28 Feb 2016 00:52:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is my first post.</p>]]></description>
-            <link>undefined9951d7fa-9c97-4d8a-bd61-0279700a902a/index.html</link>
+            <link>https://thegrid.ai/demian/9951d7fa-9c97-4d8a-bd61-0279700a902a/index.html</link>
             <guid isPermaLink="false">9951d7fa-9c97-4d8a-bd61-0279700a902a</guid>
             <pubDate>Mon, 08 Feb 2016 17:28:30 GMT</pubDate>
         </item>
